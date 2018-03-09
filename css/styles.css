@@ -87,6 +87,10 @@ h1{
   padding: 3rem 0;
 }
 
+.carousel {
+    width: 100%;
+}
+
 blockquote p {
    font-size: 1.5rem;
    color: #222222;
